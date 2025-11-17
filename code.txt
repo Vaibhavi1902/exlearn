@@ -1,1 +1,12 @@
 practice for git pull
+there are two options 
+to pust from local repo to remote repo 
+local has master branch and remote has main branch 
+so the syntax will be:
+git push origin master:main 
+other way:to rename master branch on local repo as main branch
+command to rename master as main
+git branch -m master main
+comman for adding author and email id:
+git config --global user.name "Vaibhavi1902"
+git config --global user.email "vaibhaviawale1902@gmail.com"
