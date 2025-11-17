@@ -10,3 +10,6 @@ git branch -m master main
 comman for adding author and email id:
 git config --global user.name "Vaibhavi1902"
 git config --global user.email "vaibhaviawale1902@gmail.com"
+practiced ssh connection using ssh keys 
+command for ssh key generation:
+ssh-keygen -t rsa
